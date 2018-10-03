@@ -1,4 +1,3 @@
-camel-1.2,camel-1.4,org
 camel-1.4,camel-1.6,org
 jedit-4.2,jedit-4.3,org,gnu,bsh
 lucene-2.0,lucene-2.2,org

@@ -1,0 +1,2 @@
+camel-1.4,camel-1.6,org
+jedit-4.2,jedit-4.3,org,gnu,bsh
